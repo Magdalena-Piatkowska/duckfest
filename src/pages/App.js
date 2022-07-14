@@ -12,14 +12,14 @@ function App() {
   return isFetching ? (
     <div className="App">
     <h1>CFG FULLSTACK 1 CLASS OF SPRING 2022</h1>
-    <h2>SAYS THIS ABOUT EMILY:</h2>
+    <h2>says this about Emily:</h2>
     <span>Loading...</span>
     </div>
     
   ) : rows ? (
     <div className="App">
       <h1>CFG FULLSTACK 1 CLASS OF SPRING 2022</h1>
-      <h2>SAYS THIS ABOUT EMILY:</h2>
+      <h2>says this about Emily:</h2>
       <div className="Gallery">
       {rows.map(image => <ImageCard path={image.path} user={image.name} caption={image.caption}/>)}
       </div>
@@ -28,7 +28,7 @@ function App() {
   ) : (
     <div className="App">
     <h1>CFG FULLSTACK 1 CLASS OF SPRING 2022</h1>
-    <h2>SAYS THIS ABOUT EMILY:</h2>
+    <h2>says this about Emily:</h2>
     <span>No Data</span>
     </div>
   );

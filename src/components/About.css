@@ -11,14 +11,16 @@
   .PicContainer {
     width: 30%;
     margin: 0;
+    margin-left: 160px;
   }
   .PicContainer img {
     height: 100%;
   }
+
   .TextContainer {
     width: 70%;
     text-align: right;
-    margin: 0;
+    margin: 0 0 0 120px;
     display: flex;
     flex-flow: column nowrap;
     justify-content: center;
@@ -26,7 +28,7 @@
   }
   
   .Text {
-    width: 70%;
+    width: 100%;
     height: 80%;
   }
   

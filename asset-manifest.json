@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/duckfest/static/css/main.68dc47a1.css",
-    "main.js": "/duckfest/static/js/main.127ffe47.js",
+    "main.css": "/duckfest/static/css/main.9a509aae.css",
+    "main.js": "/duckfest/static/js/main.e57942cb.js",
     "static/media/pic.jpg": "/duckfest/static/media/pic.cdc84fb4c91e04434253.jpg",
     "static/media/logo.png": "/duckfest/static/media/logo.4169f9b49bf71e0c5233.png",
     "index.html": "/duckfest/index.html",
-    "main.68dc47a1.css.map": "/duckfest/static/css/main.68dc47a1.css.map",
-    "main.127ffe47.js.map": "/duckfest/static/js/main.127ffe47.js.map"
+    "main.9a509aae.css.map": "/duckfest/static/css/main.9a509aae.css.map",
+    "main.e57942cb.js.map": "/duckfest/static/js/main.e57942cb.js.map"
   },
   "entrypoints": [
-    "static/css/main.68dc47a1.css",
-    "static/js/main.127ffe47.js"
+    "static/css/main.9a509aae.css",
+    "static/js/main.e57942cb.js"
   ]
 }

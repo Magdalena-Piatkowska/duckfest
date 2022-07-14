@@ -34,12 +34,15 @@
     font-size: 3em;
     color: white;
     width: 80%;
+    padding-top: 40px;
+    padding-bottom: 40px;
   }
   
   .Text p {
     font-size: 2em;
     color: white;
     width: 80%;
+    padding-bottom: 20px;
   }
   
   

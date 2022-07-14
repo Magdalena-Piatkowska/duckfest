@@ -4,6 +4,13 @@
 
 .App h1 {
   text-align: center;
+  padding-bottom: 5px;
+}
+
+.App h2 {
+  text-align: center;
+  padding-bottom: 20px;
+  font-size: 1.6em;
 }
 
 .App .Gallery {
